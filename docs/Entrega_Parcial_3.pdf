@@ -1,4 +1,4 @@
-%PDF-1.3
+%PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
@@ -19,19 +19,75 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/Julio1405/piedra-papel-tijera-poo)
->> /Border [ 0 0 0 ] /Rect [ 64 641 337.456 656 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 46 557 219.352 572 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://julio1405.github.io/piedra-papel-tijera-poo/)
->> /Border [ 0 0 0 ] /Rect [ 64 582 324.124 597 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/Julio1405/piedra-papel-tijera-poo)
+>> /Border [ 0 0 0 ] /Rect [ 46 539 273.88 553 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/Annots [ 4 0 R 5 0 R ] /Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://julio1405.github.io/piedra-papel-tijera-poo/)
+>> /Border [ 0 0 0 ] /Rect [ 46 507 173.38 522 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://julio1405.github.io/piedra-papel-tijera-poo/)
+>> /Border [ 0 0 0 ] /Rect [ 46 489 262.77 503 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Julio1405/piedra-papel-tijera-poo/tree/main)
+>> /Border [ 0 0 0 ] /Rect [ 46 381 190.696 396 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Julio1405/piedra-papel-tijera-poo#readme)
+>> /Border [ 0 0 0 ] /Rect [ 46 352 265.396 367 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Julio1405/piedra-papel-tijera-poo/blob/main/docs/INFORME_TECNICO.md)
+>> /Border [ 0 0 0 ] /Rect [ 46 323 259.42 338 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Julio1405/piedra-papel-tijera-poo#capturas-de-la-actualizaci%C3%B3n)
+>> /Border [ 0 0 0 ] /Rect [ 46 294 190.72 309 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Julio1405/piedra-papel-tijera-poo/blob/main/requirements.txt)
+>> /Border [ 0 0 0 ] /Rect [ 46 265 232.708 280 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Julio1405/piedra-papel-tijera-poo/commits/main/)
+>> /Border [ 0 0 0 ] /Rect [ 46 236 164.032 251 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R ] /Contents 18 0 R /MediaBox [ 0 0 595.28 841.89 ] /Parent 17 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -39,52 +95,60 @@ endobj
 >> /Type /Page
 >>
 endobj
-7 0 obj
+15 0 obj
 <<
-/PageMode /UseNone /Pages 9 0 R /Type /Catalog
+/PageMode /UseNone /Pages 17 0 R /Type /Catalog
 >>
 endobj
-8 0 obj
+16 0 obj
 <<
-/Author (anonymous) /CreationDate (D:20261123235514+01'00') /Creator (anonymous) /Keywords () /ModDate (D:20261123235514+01'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (unspecified) /Title (Entrega del Parcial 3) /Trapped /False
+/Author (anonymous) /CreationDate (D:20261123235635+01'00') /Creator (anonymous) /Keywords () /ModDate (D:20261123235635+01'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Acceso al repositorio y a la aplicaci\363n web) /Title (Entrega del Parcial 3 | Piedra, papel o tijera) /Trapped /False
 >>
 endobj
-9 0 obj
+17 0 obj
 <<
-/Count 1 /Kids [ 6 0 R ] /Type /Pages
+/Count 1 /Kids [ 14 0 R ] /Type /Pages
 >>
 endobj
-10 0 obj
+18 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 369
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 787
 >>
 stream
-GasbT92!/f'SZ;['kaLT*g=WD]2X/#6A#]LgtX5d3haY)PH!KT2b^9L;P=NCikkN:GHX7o52lOI"`>$KHNB6o]gH==#5*p:2=pDB6MgM#R/G7K*[*>`AIR,KX<:^cg)rh7_K'LmV:*#Q1@;<Q7X'kB!b&WS[,^*bWe%bVkrITbm7HHSk@qO_N*AH,76s]'c?+_@?.0s;)NAsg;<q/INYa+&Xt3kQVd=;WE2M$+$Aa,aepg4g-D'k(HQJ,U4/u6u&&pbM<sS7LaUu\n#U7GS@dRDb/>B($DS9>0-+B"D9k85bp"h@kHGN?/ka>3XN77`jFNr/Q`q;Ch(p?lC4\[WFaq"WEDl[i\CA:$.B[VFa(KeMLE<~>endstream
+GatU0d;IYl'Rf-pmUKJ'+c_`dI7n;.;RH\5BMZ:.j?eh=40tJq8H&<D%bo\D3XHKL5pSYWSo`5k"FPP.GL%dilO<X!"@rOG$:sB7O?Gq!omHLf>5*\u`.K4$UDQNAJjNRFo]um2g"5Y>!/.lRe-gH_mJg]e'uhpE`fO2>2G<2m8b*-$i!j'PTAIhVVdqnmd""<tF?W9gZfEHa"K'c]Bf>p9%bV&lM\bhi8fG.&U$iHb;c;=HE\%q%!]@$`":9g$:pGY_p,@+l+tqf6l\>s/'h7/N6"*W+-+B6\#q02i2(qkC(2cc%mqD\;HH>W;1bmh6B[[Zc$%l=Kd$.eP(c>5G@g84VK#'BM`Bg'q!l*h'p9R.3hm"GPN`lM]/*.G_s&:&Y*Te>WWO\/6em'll+BXplQe!h"j6"'YIccWjRI&6t'F#'I`L'h9p%rNB?CI^WbGt">,,$+OCY/5PfC[7hjd3A;72>&d4Z$s?^?r7D]3qhnqa.;mV1bV);Du;UpNE:@4J\d&I'gaV-RC?Qe)4EH%pX]U?qWT9"_uecpYnGZ!F0<Uau4GrhVPMg$V@f5T%`u12K)8D.%+?kY?^Z&NN"nO8T`Soc+(_A\<XL;d#O-W7YQ,_[+$IR7o>W=1q@m(!M(U<a`B'<l8I8(YpB.e,(e+7M-*>L+d`Fm81rWLfn*K5CW3;sm6Fu5N@+u=7YAu<<guQ5-c'tXeTO^@aYJHmkg47P7T#i"\Rem5.K&%AKp?M5p<6==3'VtGNZ?#$fBo$3Bkgq9<Q340>G1]uJ+pu\~>endstream
 endobj
 xref
-0 11
+0 19
 0000000000 65535 f 
 0000000061 00000 n 
 0000000102 00000 n 
 0000000209 00000 n 
 0000000321 00000 n 
 0000000508 00000 n 
-0000000695 00000 n 
-0000000923 00000 n 
-0000000991 00000 n 
-0000001265 00000 n 
-0000001324 00000 n 
+0000000694 00000 n 
+0000000880 00000 n 
+0000001066 00000 n 
+0000001263 00000 n 
+0000001457 00000 n 
+0000001678 00000 n 
+0000001899 00000 n 
+0000002114 00000 n 
+0000002316 00000 n 
+0000002594 00000 n 
+0000002664 00000 n 
+0000002999 00000 n 
+0000003060 00000 n 
 trailer
 <<
 /ID 
-[<9e16d3926ada3c76d2fe7a78f8e0a848><9e16d3926ada3c76d2fe7a78f8e0a848>]
+[<dcdcefb76f7dcd96e03ec01e3353530c><dcdcefb76f7dcd96e03ec01e3353530c>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 8 0 R
-/Root 7 0 R
-/Size 11
+/Info 16 0 R
+/Root 15 0 R
+/Size 19
 >>
 startxref
-1784
+3938
 %%EOF
