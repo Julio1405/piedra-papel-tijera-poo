@@ -44,15 +44,23 @@ En un equipo local, abre `http://localhost:8000`. En Codespaces, abre **Ports** 
 
 Para desplegar en GitHub Pages, un administrador debe seleccionar **GitHub Actions** en **Settings → Pages → Source**. En **Actions**, abre **Publicar en GitHub Pages** y ejecuta **Run workflow** si el primer envío ocurrió antes de habilitar Pages. Los envíos posteriores a `main` lo ejecutan automáticamente.
 
-## Capturas
+## Capturas de la actualización
 
-Pantalla inicial.
+**Pantalla inicial.** Los tres botones tienen iconos y el marcador empieza en cero.
 
-![Pantalla inicial con las tres opciones, el marcador en cero y el historial vacío](docs/imagenes/inicio.png)
+![Pantalla inicial del juego con la interfaz oscura](docs/imagenes/inicio.png)
 
-Partida después de seis rondas.
+**Durante la animación.** Tu elección ya aparece mientras la computadora alterna los iconos.
 
-![Resultado de la sexta ronda, marcador e historial de cinco rondas](docs/imagenes/partida.png)
+![La computadora está eligiendo y el resultado todavía no se muestra](docs/imagenes/animacion.png)
+
+**Después de seis rondas.** Se muestran el último resultado, el marcador y las cinco rondas más recientes.
+
+![Resultado de la sexta ronda, marcador e historial](docs/imagenes/partida.png)
+
+**Vista móvil.** El marcador se coloca debajo de la zona de juego.
+
+![Interfaz a 360 píxeles de ancho con los paneles en una columna](docs/imagenes/movil.png)
 
 ## Estructura
 
