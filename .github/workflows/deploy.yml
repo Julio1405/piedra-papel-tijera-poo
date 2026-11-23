@@ -1,0 +1,53 @@
+name: Publicar en GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Instalar dependencias y ejecutar pruebas
+        run: |
+          python -m pip install -r requirements.txt -r requirements-dev.txt
+          python -m pytest -q
+          python -m pip install "flet-cli==1.1.3"
+      - name: Configurar Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Empaquetar Flet para la web
+        env:
+          PAGES_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/juego"
+          cp main.py modelos.py juego.py requirements.txt "$RUNNER_TEMP/juego/"
+          cd "$RUNNER_TEMP/juego"
+          flet publish main.py --python-version 3.12 --route-url-strategy hash \
+            --base-url "${PAGES_BASE_PATH%/}/" --app-name "Piedra, Papel o Tijera"
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/juego/dist
+  publicar:
+    needs: construir
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: despliegue
