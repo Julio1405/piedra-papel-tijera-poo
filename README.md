@@ -1,6 +1,6 @@
 # Piedra, Papel o Tijera — Juego interactivo en Python
 
-**Estudiante:** ______________________________
+**Estudiante:** Julio Cesar Paternina Vega
 
 Una aplicación en la que una persona juega contra la computadora. El desafío consiste en aplicar las tres reglas de victoria, conservar el estado de la partida y presentar los resultados en una interfaz que se pueda usar desde el navegador.
 
