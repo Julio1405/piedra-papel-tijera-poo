@@ -71,7 +71,7 @@ classDiagram
 
 ## 5. Construcción de la interfaz
 
-La pantalla usa tres tarjetas para la jugada, el marcador y el historial. Los botones se adaptan al espacio disponible y la página permite desplazarse en pantallas pequeñas. `refrescar()` lee el historial y las estadísticas y actualiza los controles. El botón de reinicio se desactiva mientras no haya rondas.
+La pantalla usa tarjetas para la jugada, el marcador y el historial. La jugada y el marcador se muestran en dos columnas cuando hay espacio y se apilan en pantallas pequeñas. Al pulsar una opción, un callback asíncrono muestra la elección del jugador y alterna los iconos de la computadora durante poco más de un segundo. Durante ese intervalo, los botones quedan deshabilitados para evitar rondas duplicadas. Al terminar, `Juego.jugar()` resuelve la ronda y la interfaz muestra el resultado. `refrescar()` lee el historial y las estadísticas y actualiza los controles. El botón de reinicio se desactiva mientras no haya rondas.
 
 ## 6. Proceso de desarrollo
 

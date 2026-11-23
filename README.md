@@ -17,7 +17,7 @@ Una aplicación en la que una persona juega contra la computadora. El desafío c
 
 ## Manual de usuario
 
-1. Abre la aplicación y pulsa **Piedra**, **Papel** o **Tijera**. La computadora elige al azar y la pantalla indica ambas elecciones y el resultado.
+1. Abre la aplicación y pulsa **Piedra**, **Papel** o **Tijera**. Tu elección aparece al instante. La computadora muestra una animación breve y luego revela su elección aleatoria y el resultado.
 2. Revisa **Victorias**, **Derrotas**, **Empates** y **Rondas**. El historial lista hasta cinco rondas, de la más reciente a la más antigua.
 3. Pulsa **Reiniciar partida** para empezar de cero. El marcador vuelve a cero y se limpia el historial.
 

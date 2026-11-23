@@ -6,7 +6,7 @@ El jugador elige Piedra, Papel o Tijera y la computadora elige al azar. La panta
 
 ## Demostración
 
-1. Pulsa **Piedra** y señala las dos elecciones y el resultado. Si ambos eligieron Piedra, usa el empate para explicar la regla de igualdad.
+1. Pulsa **Piedra**. Señala que tu elección aparece de inmediato mientras la computadora muestra su animación. Al finalizar, señala su jugada y el resultado. Si ambos eligieron Piedra, usa el empate para explicar la regla de igualdad.
 2. Juega cinco rondas más. El marcador cuenta seis y el historial muestra de la ronda 6 a la 2. Suma victorias, derrotas y empates para comprobar el total.
 3. Pulsa **Reiniciar partida**. Comprueba que los cuatro indicadores quedan en cero y el historial se vacía. Juega otra ronda y muestra que vuelve a ser la ronda 1.
 
